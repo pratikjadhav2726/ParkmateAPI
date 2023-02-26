@@ -1,29 +1,33 @@
 {
     "Parking":[
         {
-        "Name":"G1",
+        
         "id":1,
-        "Available":1,
-        "Total":10
+        "name":"G1",
+        "available":1,
+        "total":10
     },
     {
-        "Name":"G2",
+        
         "id":2,
-        "Available":1,
-        "Total":10
+        "name":"G2",
+        "available":1,
+        "total":10
     },
     {
-        "Name":"G3",
+        
         "id":3,
-        "Available":1,
-        "Total":10
+        "name":"G3",
+        "available":1,
+        "total":10
     }
     ,
     {
-        "Name":"G4",
+        
         "id":4,
-        "Available":1,
-        "Total":10
+        "name":"G4",
+        "available":1,
+        "total":10
     }
 ]
 }
