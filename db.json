@@ -1,0 +1,29 @@
+{
+    "Parking":[
+        {
+        "Name":"G1",
+        "Id":1,
+        "Available":1,
+        "Total":10
+    },
+    {
+        "Name":"G2",
+        "Id":2,
+        "Available":1,
+        "Total":10
+    },
+    {
+        "Name":"G3",
+        "Id":3,
+        "Available":1,
+        "Total":10
+    }
+    ,
+    {
+        "Name":"G4",
+        "Id":4,
+        "Available":1,
+        "Total":10
+    }
+]
+}
